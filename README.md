@@ -1,5 +1,9 @@
 # Clean Swift Kai
 
+Clean Swift Kai iOS Architecture Templates is a proposal strongly based on [Raymond Law's Clean Swift Architecture idea](https://clean-swift.com). The idea was to extract the VIP cycle setup from the ViewController into a Factory (here a Swift enum, but it could be a `struct` with an abstraction without any problem). Another change was to use dependancy injection for the Interactor, Presenter, Router and Worker. Concerning the Worker, it is now used as a Facade for the different services used by the Scene.
+
+## Installation
+
 To install the Clean Swift Xcode templates, run:
 
 > make install_templates
