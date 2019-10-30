@@ -14,4 +14,10 @@ To uninstall the Clean Swift Xcode templates, run:
 
 ## Scene Architecture Diagram
 
+### First approach
+
 ![Architecture Diagram](https://github.com/Jerem42/CleanSwiftTemplatesKai/blob/master/CleanSwiftKaiArchiDiagram.png)
+
+### Second approach
+
+![Architecture Diagram Bis](https://github.com/Jerem42/CleanSwiftTemplatesKai/blob/master/CleanSwiftKaiArchiDiagramBis.png)
