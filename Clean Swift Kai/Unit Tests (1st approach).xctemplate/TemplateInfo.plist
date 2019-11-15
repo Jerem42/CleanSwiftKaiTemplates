@@ -5,7 +5,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyScene</string>
 	<key>Description</key>
-	<string>This generates unit tests for your scene using Uncle Bob&apos;s clean architecture. It consists of three test files for view controller, interactor, and presenter.</string>
+	<string>This generates unit tests for your scene using Uncle Bob&apos;s clean architecture. It consists of four test files for view controller, interactor, presenter and router.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>Options</key>
@@ -108,8 +108,8 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>SortOrder</key>
-	<string>7</string>
+	<string>1</string>
 	<key>Summary</key>
-	<string>This generates unit tests for your scene using Uncle Bob&apos;s clean architecture.</string>
+	<string>This generates unit tests for your scene using Uncle Bob&apos;s clean architecture following the first approach</string>
 </dict>
 </plist>
