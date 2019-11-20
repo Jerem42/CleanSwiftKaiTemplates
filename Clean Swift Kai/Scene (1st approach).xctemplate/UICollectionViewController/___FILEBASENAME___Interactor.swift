@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import UIKit
+import Foundation
 
 protocol ___VARIABLE_sceneName___BusinessLogic {
     func doSomething()
