@@ -4,11 +4,11 @@ Clean Swift Kai iOS Architecture is a proposal strongly based on [Raymond Law's 
 
 ## Installation
 
-To install the Clean Swift Xcode templates, run:
+To install the Clean Swift Kai Xcode templates, run:
 
 > make install_templates
 
-To uninstall the Clean Swift Xcode templates, run:
+To uninstall the Clean Swift Kai Xcode templates, run:
 
 > make uninstall_templates
 
