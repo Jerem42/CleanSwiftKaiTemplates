@@ -48,9 +48,3 @@ extension ___VARIABLE_sceneName___ViewController: ___VARIABLE_sceneName___Displa
 //
 //    }
 }
-
-extension ___VARIABLE_sceneName___ViewController: StoryboardInstantiable {
-    static var storyboardName: String {
-        return "___VARIABLE_sceneName___"
-    }
-}
