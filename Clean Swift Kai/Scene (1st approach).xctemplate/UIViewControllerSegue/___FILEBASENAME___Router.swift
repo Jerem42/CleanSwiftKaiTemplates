@@ -3,6 +3,7 @@
 import UIKit
 
 protocol ___VARIABLE_sceneName___RoutingLogic {
+    func passDataToNextScene(segue: UIStoryboardSegue)
 //    func navigateToSomewhere()
 }
 

@@ -104,34 +104,6 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Scene</string>
-			<key>Description</key>
-			<string>The Scene Enum name</string>
-			<key>Identifier</key>
-			<string>sceneEnumName</string>
-			<key>Name</key>
-			<string>Scene Enum Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Models</string>
-			<key>Description</key>
-			<string>The model file name</string>
-			<key>Identifier</key>
-			<string>modelFileName</string>
-			<key>Name</key>
-			<string>Model File Name:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Default</key>
 			<string>UIViewController</string>
 			<key>Description</key>
 			<string>What view controller class to subclass for the new scene</string>
@@ -151,6 +123,20 @@
 				<string>UITableViewController</string>
 				<string>UICollectionViewController</string>
 			</array>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>FromStoryboard</string>
+			<key>Name</key>
+			<string>Instantiated by Storyboard segue instead of code ?</string>
+			<key>Description</key>
+			<string>(TabBarController tab, NavigationController rootViewController)</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+			<key>NotPersisted</key>
+			<true/>
 		</dict>
 	</array>
 	<key>Platforms</key>
