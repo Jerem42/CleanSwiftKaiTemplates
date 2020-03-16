@@ -128,7 +128,7 @@
 			<key>Identifier</key>
 			<string>Segue</string>
 			<key>Name</key>
-			<string>Enable segue</string>
+			<string>Enable segue routing ?</string>
 			<key>Description</key>
 			<string>Whether to use segue for navigation</string>
 			<key>Type</key>
