@@ -102,6 +102,27 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
+        <dict>
+			<key>Identifier</key>
+			<string>instantiationMethod</string>
+			<key>Name</key>
+			<string>Instantiation method:</string>
+			<key>Description</key>
+			<string>What method to use for the ViewController instantiation</string>
+			<key>NotPersisted</key>
+			<true/>
+            <key>Required</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>combo</string>
+            <key>Default</key>
+            <string>Storyboard</string>
+			<key>Values</key>
+			<array>
+				<string>Storyboard</string>
+				<string>Code</string>
+			</array>
+		</dict>
 	</array>
 	<key>Platforms</key>
 	<array>
