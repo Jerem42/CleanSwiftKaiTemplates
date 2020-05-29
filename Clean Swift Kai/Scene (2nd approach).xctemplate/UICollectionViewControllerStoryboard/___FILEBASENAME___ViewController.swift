@@ -6,7 +6,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: AnyObject {
 //    func displaySomething(viewModel: ___VARIABLE_sceneName___.Something.ViewModel)
 }
 
-class ___VARIABLE_sceneName___ViewController: UICollectionViewController {
+final class ___VARIABLE_sceneName___ViewController: UICollectionViewController {
     var interactor: ___VARIABLE_sceneName___BusinessLogic?
 
     // MARK: View lifecycle

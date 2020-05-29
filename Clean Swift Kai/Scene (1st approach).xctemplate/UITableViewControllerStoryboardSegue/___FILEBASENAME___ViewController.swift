@@ -6,7 +6,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: AnyObject {
 //    func displaySomething(viewModel: ___VARIABLE_sceneName___.Something.ViewModel)
 }
 
-class ___VARIABLE_sceneName___ViewController: UITableViewController {
+final class ___VARIABLE_sceneName___ViewController: UITableViewController {
     var interactor: ___VARIABLE_sceneName___BusinessLogic?
     var router: ___VARIABLE_sceneName___RoutingLogic?
 

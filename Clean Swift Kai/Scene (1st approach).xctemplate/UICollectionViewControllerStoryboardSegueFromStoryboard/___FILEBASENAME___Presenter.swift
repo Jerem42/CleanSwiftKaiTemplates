@@ -6,7 +6,7 @@ protocol ___VARIABLE_sceneName___PresentationLogic {
     func presentSomething()
 }
 
-class ___VARIABLE_sceneName___Presenter {
+final class ___VARIABLE_sceneName___Presenter {
     private weak var viewController: ___VARIABLE_sceneName___DisplayLogic?
 
     init(viewController: ___VARIABLE_sceneName___DisplayLogic?) {

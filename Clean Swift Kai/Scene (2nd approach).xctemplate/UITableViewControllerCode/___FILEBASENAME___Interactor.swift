@@ -6,7 +6,7 @@ protocol ___VARIABLE_sceneName___BusinessLogic {
     func doSomething()
 }
 
-class ___VARIABLE_sceneName___Interactor {
+final class ___VARIABLE_sceneName___Interactor {
     private let presenter: ___VARIABLE_sceneName___PresentationLogic
     private let router: ___VARIABLE_sceneName___RoutingLogic
     private let worker: ___VARIABLE_sceneName___Worker

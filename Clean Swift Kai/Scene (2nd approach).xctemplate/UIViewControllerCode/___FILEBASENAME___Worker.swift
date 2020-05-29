@@ -6,7 +6,7 @@ protocol APIServiceProtocol {
     func doSomeWork(completion: @escaping (() -> Void))
 }
 
-class ___VARIABLE_sceneName___Worker {
+final class ___VARIABLE_sceneName___Worker {
     // Exemple to be changed
     private let apiService: APIServiceProtocol
     

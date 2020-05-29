@@ -7,7 +7,7 @@ protocol ___VARIABLE_sceneName___RoutingLogic {
 //    func navigateToSomewhere()
 }
 
-class ___VARIABLE_sceneName___Router {
+final class ___VARIABLE_sceneName___Router {
     private weak var viewController: UIViewController?
     private let dataStore: ___VARIABLE_sceneName___DataStore?
     

@@ -48,4 +48,4 @@ If you check `Instantiated by Storyboard segue instead of code ?`, the setup won
 
 ## Next steps
 
-Adaptation of the templates for SwiftUI
+Adaptation of the templates for SwiftUI + an example project

@@ -9,7 +9,7 @@ protocol ___VARIABLE_sceneName___BusinessLogic {
 protocol ___VARIABLE_sceneName___DataStore {
 }
 
-class ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___DataStore {
+final class ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___DataStore {
     private let presenter: ___VARIABLE_sceneName___PresentationLogic
     private let worker: ___VARIABLE_sceneName___Worker
 
